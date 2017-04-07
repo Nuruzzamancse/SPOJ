@@ -1,2 +1,2 @@
 # SPOJ
-Some of MY SPOJ's problemss Solution
+Some of MY SPOJ's problems Solution
